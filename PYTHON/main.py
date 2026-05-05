@@ -1,4 +1,4 @@
-# 1. Import random module
+xffgg# 1. Import random module
 import random
 
 # 2. Define a function to generate a random number
